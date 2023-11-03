@@ -1,4 +1,4 @@
 n = ''
-while(n=='q'):
-    n = chr(input())
+while(n!='q'):
+    n = str(input())
     print(n)
